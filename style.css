@@ -73,3 +73,45 @@
     margin-top: 30px;
     margin-left: 50px;
 }
+.sleader {
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+.sleader_description {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 95px;
+    line-height: 37px;
+    letter-spacing: 0.02em;
+}
+.sleader_h {
+    font-size: 150px;
+}
+.sleader_text_description {
+    display: block;
+}
+.sleader_text_h {
+    display: block;
+}
+.sleader_btn {
+    background: #D7B399;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.sleader_btn_text {
+    font-size: 45px;
+    padding-right: 50px;
+    padding-left: 50px;
+    color: #FFFFFF;
+}
+.sleader_img {
+    height: 800px;
+    margin-top: -95px;
+    margin-left: 40px;
+}
